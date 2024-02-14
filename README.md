@@ -1,0 +1,2 @@
+This is a classification model with the use of Classification Trees for when the dependent variable is of type qualitative. In essence, it is about finding a scheme of multiple dichotomies or bifurcations, nested in a tree form, so that
+Following each of the branches of the tree we obtain, in the end, a prediction for the class of membership (classification). In it graph we see several spaces according to the entropy of the points.
